@@ -3,7 +3,9 @@ body {
   font-size: 16px;
   line-height: 1;
 }
-
+#currentDay{
+  
+}
 textarea{
   background: transparent;
   border: none;

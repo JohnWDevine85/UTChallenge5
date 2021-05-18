@@ -1,0 +1,62 @@
+{
+  "name": "utchallenge5",
+  "version": "1.0.0",
+  "description": "Weekly Challenge 5 - Web APIs User Story",
+  "main": "main.js",
+  "dependencies": {
+    "call-bind": "^1.0.2",
+    "basic-auth": "^1.1.0",
+    "amdefine": "^1.0.1",
+    "corser": "^2.0.1",
+    "colors": "^1.4.0",
+    "eventemitter3": "^4.0.7",
+    "follow-redirects": "^1.14.1",
+    "debug": "^3.2.7",
+    "ecstatic": "^3.3.2",
+    "function-bind": "^1.1.1",
+    "get-intrinsic": "^1.1.1",
+    "has": "^1.0.3",
+    "has-symbols": "^1.0.2",
+    "he": "^1.2.0",
+    "async": "^2.6.3",
+    "http-server": "^0.12.3",
+    "luxon": "^1.27.0",
+    "lodash": "^4.17.21",
+    "mkdirp": "^0.5.5",
+    "minimist": "^1.2.5",
+    "http-proxy": "^1.18.1",
+    "moment": "^2.29.1",
+    "ms": "^2.1.3",
+    "opener": "^1.5.2",
+    "qs": "^6.10.1",
+    "require": "^2.4.20",
+    "object-inspect": "^1.10.3",
+    "requires-port": "^1.0.0",
+    "optimist": "^0.3.7",
+    "portfinder": "^1.0.28",
+    "secure-compare": "^3.0.1",
+    "source-map": "^0.1.43",
+    "union": "^0.5.0",
+    "uglify-js": "^2.3.0",
+    "std": "^0.1.40",
+    "side-channel": "^1.0.4",
+    "uniq": "^1.0.1",
+    "mime": "^1.6.0",
+    "url-join": "^2.0.5",
+    "wordwrap": "^0.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnWDevine85/UTChallenge5.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JohnWDevine85/UTChallenge5/issues"
+  },
+  "homepage": "https://github.com/JohnWDevine85/UTChallenge5#readme"
+}
